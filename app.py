@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Path to your JSON file
-# file_path = 'data/FlightNoItinenaryFoond.json'
-file_path = 'data/FlightSearchRequestNoItinerary.json'
+file_path = 'data/FlightNoItinenaryFoond.json'
+# file_path = 'data/FlightSearchRequestNoItinerary.json'
 
 # Try to load the JSON file while ignoring errors
 try:
