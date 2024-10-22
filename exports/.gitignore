@@ -1,0 +1,6 @@
+# ignore everything
+*.csv
+*.png
+
+# do not ignore
+seaborn-charts
